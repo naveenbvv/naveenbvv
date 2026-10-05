@@ -1,6 +1,6 @@
- Hi, I'm Naveen B V
+ Hi, I'm Naveen 
 
- AI & ML Engineering Student | 2nd Year  
+ AI Student | 3rd Year  
  India | 🌱 Learning Deep Learning, Lobe.ai & Real-world AI Projects  
  Exploring: Python, Computer Vision, and LLMs
 
