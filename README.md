@@ -1,4 +1,4 @@
-# Hi, I'm Naveen B V
+ Hi, I'm Naveen B V
 
  AI & ML Engineering Student | 2nd Year  
  India | 🌱 Learning Deep Learning, Lobe.ai & Real-world AI Projects  
@@ -6,7 +6,7 @@
 
 
 
-##  Projects
+  Projects
 | Project Name | Description | Tech |
 |--------------|-------------|------|
 | **Traffic Sign Recognizer** | CNN model to classify Indian road signs | Python, OpenCV, Keras |
